@@ -2,6 +2,9 @@
 
 Dashboard for viewing GitHub release download statistics across multiple repositories at once.
 
+Open this Link, a search for your github repos:
+https://jayjojayson.github.io/githubpulseradar/
+
 ## Features
 
 - View download statistics for multiple GitHub repositories simultaneously
@@ -20,8 +23,6 @@ Dashboard for viewing GitHub release download statistics across multiple reposit
 
 ## GitHub Token
 
-Create a token at https://github.com/settings/tokens (no special permissions needed for public repos).
+It is free and you only need a Token, if refresh a lot your Stats.
+Then create a token at https://github.com/settings/tokens (no special permissions needed for public repos).
 
-## License
-
-MIT
